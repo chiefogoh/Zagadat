@@ -34,7 +34,7 @@ const Exited = () => {
         
            <div className="ban">
            <a href="https://vydia.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/vydia.png' alt="love" className="picture"/>
+               <img src='./vydia.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Vydia</h1>
                <h3 className="south">Vydia provides an end-to-end solution to empower the next generation 

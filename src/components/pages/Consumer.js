@@ -31,7 +31,7 @@ const Consumer = () => {
 
            <div className="ban">
            <a href="https://rukahair.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/Ruka Hair.png' alt="love" className="picture"/>
+               <img src='./Ruka Hair.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Ruka Hair</h1>
                <h3 className="south">Ruka Hair aims to depart from broad categories such as 'coily' or 'kinky' 
@@ -40,7 +40,7 @@ const Consumer = () => {
 
            <div className="ban">
            <a href="https://ouredenlife.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/eden.png' alt="love" className="picture"/>
+               <img src='./eden.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> Eden Life</h1>
                <h3  className="south">Eden is technology + the best parts of humanity (empathy, institution and efficiency)

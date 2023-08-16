@@ -32,7 +32,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://www.capetowntigers.com/" target="_blank"  rel='noreferrer'   className="image-container">
-               <img src='./images/capetown.png' alt="ll" className="picture"/>
+               <img src='./capetown.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Cape Town Tigers</h1>
                <h3  className="south">The Cape Town Tigers are a a south African basketball
@@ -43,7 +43,7 @@ const Active = () => {
 
            <div className="ban">
               <a href="https://www.eraclimate.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/era.png' alt="love" className="picture"/>
+               <img src='./era.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> ERA</h1>
                <h3 className="south">ERA makes it more efficient to buy and sell carbon 
@@ -53,7 +53,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://shoobs.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/shoobs.png' alt="love" className="picture"/>
+               <img src='./shoobs.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> Shoobs</h1>
                <h3 className="south"> Shoobs is the online discovery & ticketing platform for urban nightlife 
@@ -63,7 +63,7 @@ const Active = () => {
            
            <div className="ban">
            <a href="https://www.paisa.mx/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/celebration.png' alt="ll" className="picture"/>
+               <img src='./celebration.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Paisa</h1>
                <h3 className="south">Paisa builds financial security for families</h3>
@@ -71,7 +71,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://apata.com/" target="_blank"   rel='noreferrer' className="image-container">
-               <img src='./images/apata.png' alt="ll" className="picture"/>
+               <img src='./apata.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Apata</h1>
                <h3 className="south">Apata builds the best 3D Secure solution for Fintech issuers & processors, ensuring ongoing access to freliable, competitive, and easy-to-adopt capabilities</h3>
@@ -80,7 +80,7 @@ const Active = () => {
            
            <div className="ban">
             <a href="https://decagon.institute/" target="_blank" rel='noreferrer' className="image-container">
-             <img src='./images/Decagon.png' alt="ll" className="picture"/>
+             <img src='./Decagon.png' alt="ll" className="picture"/>
              </a>
              <h1 className="west"> Decagon</h1>
              <h3 className="south">Decagon is elite software engineerinand leadership training institute institute that equips high potential talent with world-class software engineering andleadership skills</h3>
@@ -88,7 +88,7 @@ const Active = () => {
 
            <div className="ban">
             <a href="https://www.pawapay.io/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/pawapay.png' alt="love" className="picture"/>
+               <img src='./pawapay.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> PawaPay</h1>
                <h3 className="south">Pawapay provides one API and one portal to integrate
@@ -98,7 +98,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://empawaafrica.com/" target="_blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/empawa.png' alt="love" className="picture"/>
+               <img src='./empawa.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> EmPawa</h1>
                <h3 className="south">EmPawa is an initiative to help new artists raech their full
@@ -107,7 +107,7 @@ const Active = () => {
 
             <div className="ban">
            <a href="https://www.betpawa.ng/" target="_blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/betpawa.png' alt="love" className="picture"/>
+               <img src='./betpawa.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Betpawa</h1>
                <h3 className="south">BetPawa's mission is to provide a home for all of Africa's dreamers.
@@ -116,7 +116,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://ouredenlife.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/eden.png' alt="love" className="picture"/>
+               <img src='./eden.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> Eden Life</h1>
                <h3  className="south">Eden is technology + the best parts of humanity (empathy, institution and efficiency)
@@ -125,7 +125,7 @@ const Active = () => {
 
            <div className="ban">
            <a href="https://rukahair.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/Ruka Hair.png' alt="love" className="picture"/>
+               <img src='./Ruka Hair.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Ruka Hair</h1>
                <h3 className="south">Ruka Hair aims to depart from broad categories such as 'coily' or 'kinky' 

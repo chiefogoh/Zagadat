@@ -46,17 +46,17 @@
   position: relative;
   padding-left: 1rem;
     display: flex;
-    align-items:center;
+    justify-content: flex-start;
     flex-flow: row;
     flex-wrap: wrap;
-    width: 84%;
+    width: 86.5%;
     margin:auto;
     gap: 2rem;
      margin-bottom: 6rem;
 }
 
 .ban{
-  width:29.5%;
+  width:30%;
 
 }
 

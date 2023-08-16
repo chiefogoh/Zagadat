@@ -33,7 +33,7 @@ const Gaming = () => {
 
            <div className="ban">
            <a href="https://www.betpawa.ng/" target="_blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/betpawa.png' alt="love" className="picture"/>
+               <img src='./betpawa.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Betpawa</h1>
                <h3 className="south">BetPawa's mission is to provide a home for all of Africa's dreamers.

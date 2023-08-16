@@ -21,7 +21,7 @@ export const Navbar = () => {
            onClick={() => setmobile(false )}
            >
           
-              <Link activeClassName="active" className='li' to = '/'  >
+              <Link activeClassName="active" className='li' to = '/zagadat'  >
                 <li>Home</li>
                 </Link>
               <Link  activeClassName="active" className='li' to = '/about'>

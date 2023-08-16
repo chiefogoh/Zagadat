@@ -4,7 +4,7 @@ import "./Loader.css"
 const Loader = () => {
   return <div id="loader" className="Loader">
    <div className="loadimg">
-    <img src='./images/zagadat.png' alt='vector'  />
+    <img src='./zagadat.png' alt='vector'  />
    </div>
   </div>; 
 };

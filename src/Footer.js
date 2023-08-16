@@ -10,7 +10,7 @@ const Footer = () => {
     <div>
         <div className='secA'>
             
-        <img src='./images/zagadat1.png' alt='zagadat' />
+        <img src='./zagadat1.png' alt='zagadat' />
         
         <div className='okay'>
               <Link className='elo' to = '/'  >

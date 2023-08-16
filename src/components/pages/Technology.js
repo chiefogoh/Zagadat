@@ -31,7 +31,7 @@ const Technology = () => {
 
            <div className="ban">
            <a href="https://shoobs.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/shoobs.png' alt="love" className="picture"/>
+               <img src='./shoobs.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> Shoobs</h1>
                <h3 className="south"> Shoobs is the online discovery & ticketing platform for urban nightlife 
@@ -42,7 +42,7 @@ const Technology = () => {
 
            <div className="ban">
             <a href="https://decagon.institute/" target="_blank" rel='noreferrer' className="image-container">
-             <img src='./images/Decagon.png' alt="ll" className="picture"/>
+             <img src='./Decagon.png' alt="ll" className="picture"/>
              </a>
              <h1 className="west"> Decagon</h1>
              <h3 className="south">Decagon is elite software engineerinand leadership training institute institute that equips high potential talent with world-class software engineering andleadership skills</h3>

@@ -33,7 +33,7 @@ const Sports = () => {
 
            <div className="ban">
            <a href="https://www.capetowntigers.com/" target="_blank"  rel='noreferrer'   className="image-container">
-               <img src='./images/capetown.png' alt="ll" className="picture"/>
+               <img src='./capetown.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Cape Town Tigers</h1>
                <h3  className="south">The Cape Town Tigers are a a south African basketball

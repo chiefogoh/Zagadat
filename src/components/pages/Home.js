@@ -37,8 +37,8 @@ const Home = () => {
              <div className="awe">
 
              <div className="brown">
-              <a href="https://decagon.institute/" target="_blank" className="image-container">
-               <img src='./images/Decagon.png' alt="ll" className="picture"/>
+              <a href="https://decagon.institute/" target="_blank"  rel="hhhjjj" className="image-container">
+               <img src='./Decagon.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Decagon</h1>
                <h3 className="south">Decagon is elite software engineerinand leadership training institute institute that equips high potential talent with world-class software engineering andleadership skills</h3>
@@ -46,8 +46,8 @@ const Home = () => {
 
            
              <div className="brown">
-              <a href="https://ouredenlife.com/" target="_blank"  className="image-container">
-               <img src='./images/eden.png' alt="ll" className="picture"/>
+              <a href="https://ouredenlife.com/" target="_blank"  rel="hhhjjj" className="image-container">
+               <img src='./eden.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Eden Life</h1>
                <h3  className="south">Eden is technology + the best parts of humanity (empathy, institution and efficiency)
@@ -57,8 +57,8 @@ const Home = () => {
 
            
              <div className="brown">
-              <a href="https://www.paisa.mx/" target="blank" className="image-container">
-               <img src='./images/celebration.png' alt="ll" className="picture"/>
+              <a href="https://www.paisa.mx/" target="blank"  rel="hhhjjj" className="image-container">
+               <img src='./celebration.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Paisa</h1>
                <h3 className="south">Paisa builds financial security for families</h3>
@@ -66,8 +66,8 @@ const Home = () => {
 
            
              <div className="brown">
-              <a href="https://www.pawapay.io/" target="blank" className="image-container">
-               <img src='./images/pawapay.png' alt="love" className="picture"/>
+              <a href="https://www.pawapay.io/" target="blank"  rel="hhh" className="image-container">
+               <img src='./pawapay.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> PawaPay</h1>
                <h3 className="south">Pawapay provides one API and one portal to integrate
@@ -76,8 +76,8 @@ const Home = () => {
 
            
              <div className="brown">
-              <a href="https://rukahair.com/" target="blank" className="image-container">
-               <img src='./images/Ruka Hair.png' alt="love" className="picture"/>
+              <a href="https://rukahair.com/" target="blank"  rel="hhh" className="image-container">
+               <img src='./Ruka Hair.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Ruka Hair</h1>
                <h3 className="south">Ruka Hair aims to depart from broad categories such as 'coily' or 'kinky' 
@@ -85,8 +85,8 @@ const Home = () => {
              </div>
            
              <div className="brown" id="port">
-              <a href="https://www.betpawa.ng/" target="_blank" className="image-container">
-               <img src='./images/betpawa.png' alt="love" className="picture"/>
+              <a href="https://www.betpawa.ng/" target="_blank"  rel="hhh" className="image-container">
+               <img src='./betpawa.png' alt="love" className="picture"/>
                </a>
                <h1 className="west">Betpawa</h1>
                <h3 className="south">BetPawa's mission is to provide a home for all of Africa's dreamers.
@@ -106,7 +106,7 @@ const Home = () => {
           <div className="div">
             <div className="cool">
             <div className="shit">
-            <img src="./images/investing in cool shit.png"  alt="love"/>
+            <img src="./investing in cool shit.png"  alt="love"/>
             </div>
             <div className="invest">
              <h1 className="north">Investing in Cool Shit</h1>

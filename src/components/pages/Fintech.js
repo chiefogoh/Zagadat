@@ -32,7 +32,7 @@ const Finetech = () => {
 
            <div className="ban">
            <a href="https://www.paisa.mx/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/celebration.png' alt="ll" className="picture"/>
+               <img src='./celebration.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Paisa</h1>
                <h3 className="south">Paisa builds financial security for families</h3>
@@ -40,7 +40,7 @@ const Finetech = () => {
 
            <div className="ban">
            <a href="https://apata.com/" target="_blank"   rel='noreferrer' className="image-container">
-               <img src='./images/apata.png' alt="ll" className="picture"/>
+               <img src='./apata.png' alt="ll" className="picture"/>
                </a>
                <h1 className="west"> Apata</h1>
                <h3 className="south">Apata builds the best 3D Secure solution for Fintech issuers & processors, ensuring ongoing access to freliable, competitive, and easy-to-adopt capabilities</h3>
@@ -48,7 +48,7 @@ const Finetech = () => {
 
            <div className="ban">
            <a href="https://www.pawapay.io/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/pawapay.png' alt="love" className="picture"/>
+               <img src='./pawapay.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> PawaPay</h1>
                <h3 className="south">Pawapay provides one API and one portal to integrate

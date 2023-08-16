@@ -33,7 +33,7 @@ const ClimateTech = () => {
 
            <div className="ban">
               <a href="https://www.eraclimate.com/" target="blank"  rel='noreferrer'  className="image-container">
-               <img src='./images/era.png' alt="love" className="picture"/>
+               <img src='./era.png' alt="love" className="picture"/>
                </a>
                <h1 className="west"> ERA</h1>
                <h3 className="south">ERA makes it more efficient to buy and sell carbon 
